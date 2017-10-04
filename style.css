@@ -1,0 +1,42 @@
+p
+{ border: solid black 2px
+
+}
+
+li
+{
+    margin-right: 20px
+}
+
+#menu, ul
+{
+    display: flex;
+        flex-wrap: wrap;
+    justify-content: flex-end
+}
+
+section
+{
+    
+}
+
+img {
+margin-left: 130px;
+margin-top: 195px;
+}
+
+.barre {
+  text-align: center;
+}
+
+.center-div {
+     margin: 0 auto;
+     width: 100px; 
+}
+ul {
+  list-style: none;
+}
+
+#sconnexion {
+  color: #fff;
+}
